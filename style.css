@@ -20,7 +20,7 @@ body { margin: 0; color: var(--ink); background: var(--cream); font-family: 'Man
 .intel-logo { width: 116px; filter: brightness(0) invert(1); margin-bottom: 78px; }
 .eyebrow, .year, footer { font: 500 12px 'DM Mono', monospace; letter-spacing: 0; text-transform: uppercase; }
 .eyebrow { color: var(--cyan); margin: 0 0 18px; }
-h1 { font-size: clamp(3.4rem, 8vw, 7.8rem); line-height: .9; letter-spacing: 0; margin: 0; font-weight: 800; }
+h1 { font-size: clamp(3.4rem, 8vw, 7rem); line-height: .9; letter-spacing: 0; margin: 0; font-weight: 800; }
 h1 em { color: var(--cyan); font-style: normal; }
 .hero-description { max-width: 490px; margin: 38px 0 0; color: #b9c7bd; line-height: 1.7; }
 .timeline-section { padding: 94px 7vw 16px; overflow-x: auto; overflow-y: visible; scroll-snap-type: x proximity; scroll-padding-inline: 7vw; }
